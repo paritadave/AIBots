@@ -1,0 +1,17 @@
+streamlit
+hugchat==0.0.8
+transformers
+openai
+llama-index
+nltk
+pypdf
+torch
+TensorFlow1
+langchain
+pandas
+tabulate
+huggingface
+replicate
+chromadb
+tiktoken
+PyPDF2
