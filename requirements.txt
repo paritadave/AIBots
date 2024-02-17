@@ -15,3 +15,4 @@ replicate
 chromadb
 tiktoken
 PyPDF2
+python==3.11
